@@ -1,0 +1,42 @@
+[
+  {
+    "Codigo": "001",
+    "Nome": "Finlandia",
+    "Preco": 2499.90
+  },
+  {
+    "Codigo": "002",
+    "Nome": "Turquia",
+    "Preco": 3134.89
+  },
+  {
+    "Codigo": "003",
+    "Nome": "Leste do USA",
+    "Preco": 1789.90
+  },
+  {
+    "Codigo": "004",
+    "Nome": "Tocantins",
+    "Preco": 729.90
+  },
+  {
+    "Codigo": "005",
+    "Nome": "Roma",
+    "Preco": 2199.90
+  },
+  {
+    "Codigo": "006",
+    "Nome": "Veneza",
+    "Preco": 2949.10
+  },
+  {
+    "Codigo": "007",
+    "Nome": "Grecia",
+    "Preco": 2377.90
+  },
+  {
+    "Codigo": "008",
+    "Nome": "Indonesia",
+    "Preco": 4176.55
+  }
+]
